@@ -1,0 +1,3 @@
+a, t0, t1, y_t0_a0, y_t1_a0, y_t0_a1, y_t1_a1, mu_t0_a0, mu_t1_a0, mu_t0_a1, mu_t1_a1, z, x1-xN
+
+x1-xN; first 5 continuous features, then 19 binary features
